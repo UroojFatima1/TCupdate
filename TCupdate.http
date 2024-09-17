@@ -1,0 +1,6 @@
+@TCupdate_HostAddress = http://localhost:5012
+
+GET {{TCupdate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

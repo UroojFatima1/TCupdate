@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/Upload.cs \
+obj\Debug\net8.0\Protos/UploadGrpc.cs: Protos/upload.proto

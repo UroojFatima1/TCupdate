@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCupdate", "TCupdate.csproj", "{876BE8ED-F67B-4C29-AEAF-C4AB686328CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876BE8ED-F67B-4C29-AEAF-C4AB686328CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876BE8ED-F67B-4C29-AEAF-C4AB686328CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876BE8ED-F67B-4C29-AEAF-C4AB686328CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876BE8ED-F67B-4C29-AEAF-C4AB686328CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C372606F-F227-4F53-906A-F3547B378445}
+	EndGlobalSection
+EndGlobal
